@@ -1,0 +1,2 @@
+# __2024_11_17_sunday__
+AI人工智慧開發入門_Python_traing
